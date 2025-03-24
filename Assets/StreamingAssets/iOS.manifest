@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 454010622
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cudete
+      Dependencies: {}
+    Info_1:
+      Name: spheret
+      Dependencies: {}
+    Info_2:
+      Name: centerobj
+      Dependencies: {}
